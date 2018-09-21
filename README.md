@@ -5,6 +5,8 @@
 ## MCPC
 TODO
 
+_Sometimes there are client files in the downloadable zips_
+
 ## 1.2.3
 
 | Name | Version | Serverfile | Clientfile | Note |
@@ -24,6 +26,13 @@ TODO
 
 | Name | Version | Serverfile | Clientfile | Note |
 | --- | --- | --- | --- | --- |
+| Backpacks | 2.5 r3 | [Backpack_1.2.5_FML_r3.rar](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.5/server/Backpack_1.2.5_FML_r3.rar) | Clientfile | |
+| BalkonsWeaponMod | 8.6 | [BalkonsWeaponMod1.2.5.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.5/server/BalkonsWeaponMod1.2.5.zip) | Clientfile | |
+| Better Farming | 2.4.0r2 | [BetterFarming-MCPC-2.4.0-r2.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.5/server/BetterFarming-MCPC-2.4.0-r2.zip) | Clientfile | |
+| Buildcraft | 3.1.6 #25 r3 | [buildcraft-bukkit-3.1.6.25-r3.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.5/server/buildcraft-bukkit-3.1.6.25-r3.zip) | Clientfile | Beta |
+| Equivalent Exchange | 1.4.6.5 r5 | [EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.5/server/EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip) | Clientfile | |
+| Forestry | 1.4.8.4 r2 | [MFR_NoMLMP_1.5.2_mc1.2.5.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.5/server/MFR_NoMLMP_1.5.2_mc1.2.5.zip) | Clientfile | Forge 3.x |
+| IndustrailCraft2 | 1.103 r2 | [industrialcraft2-1.103-mcpc1.2.5-r2.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.5/server/industrialcraft2-1.103-mcpc1.2.5-r2.zip) | Clientfile | |
 | Minefactory Reloaded | 1.5.2 | [MFR_NoMLMP_1.5.2_mc1.2.5.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.5/server/MFR_NoMLMP_1.5.2_mc1.2.5.zip) | Clientfile | Forge 3.x |
 |  | 1.5.3 | [MineFactoryReloadedBC3.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.5/server/MineFactoryReloadedBC3.zip) | Clientfile | Buildcraft 3, untested |
 | Nether Ores | 1.2.3 | [NetherOres_1.2.3.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.5/server/NetherOres_1.2.3.zip) | Clientfile | optional IC2 1.95 Macerators |
