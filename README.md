@@ -10,7 +10,7 @@ TODO
 | Name | Version | Serverfile | Clientfile | Note |
 | --- | --- | --- | --- | --- |
 | Minefactory Reloaded | 1.5.0 | [MineFactoryReloaded_1.2.3.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.3/server/MineFactoryReloaded_1.2.3.zip) | Clientfile |  |
-| Nether Ores | 1.2.0 | [NetherOres 1.2.0.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.3/server/NetherOres 1.2.0.zip) | Clientfile |  |
+| Nether Ores | 1.2.0 | [NetherOres_1.2.0.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.3/server/NetherOres_1.2.0.zip) | Clientfile |  |
 | Power Converters | --- | [PowerConverters_1.2.3.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.2.3/server/PowerConverters_1.2.3.zip) | Clientfile |  |
 
 ## 1.2.4
@@ -34,12 +34,12 @@ TODO
 
 | Name | Version | Serverfile | Clientfile | Note |
 | --- | --- | --- | --- | --- |
-| Nether Ores | 1.2.4 | [NetherOres 1.3.2.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.4.2/server/NetherOres 1.3.2.zip) | Clientfile | optional IC2 1.106 Macerators |
-| Power Converters | 1.3.5 | [PowerConverters 1.3.2.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.3.2/server/PowerConverters 1.3.2.zip) | Clientfile | Buildcraft 3 pre7 and IC2 1.106 |
+| Nether Ores | 1.2.4 | [NetherOres_1.3.2.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.4.2/server/NetherOres_1.3.2.zip) | Clientfile | optional IC2 1.106 Macerators |
+| Power Converters | 1.3.5 | [PowerConverters_1.3.2.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.3.2/server/PowerConverters_1.3.2.zip) | Clientfile | Buildcraft 3 pre7 and IC2 1.106 |
 
 ## 1.4.2
 
 | Name | Version | Serverfile | Clientfile | Note |
 | --- | --- | --- | --- | --- |
-| Nether Ores | 1.2.5 | [NetherOres 1.4.2.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.4.2/server/NetherOres 1.4.2.zip) | Clientfile | optional *next IC2* Macerators |
-| Power Converters | 1.3.7 | [PowerConverters 1.4.2.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.4.2/server/PowerConverters 1.4.2.zip) | Clientfile | Buildcraft 3  and IC2 1.108 |
+| Nether Ores | 1.2.5 | [NetherOres_1.4.2.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.4.2/server/NetherOres_1.4.2.zip) | Clientfile | optional *next IC2* Macerators |
+| Power Converters | 1.3.7 | [PowerConverters_1.4.2.zip](https://github.com/TimGoll/minecraft_legacy_mod_database/blob/master/src/mods/1.4.2/server/PowerConverters_1.4.2.zip) | Clientfile | Buildcraft 3  and IC2 1.108 |
